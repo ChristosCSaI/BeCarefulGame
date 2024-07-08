@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Level1
+comment1.params=levelNumber
+comment1.target=Level1(int)
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkObstacleGeneration()
+comment5.params=
+comment5.target=void\ generateObstacle()
+numComments=6
